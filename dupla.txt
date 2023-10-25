@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE> ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-<H1> RENE </H1>
+<H1> Rene </H1>
 
 <H2>	 
 	git remote
