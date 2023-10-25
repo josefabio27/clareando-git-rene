@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<TITLE> ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+<H1> RENE </H1>
+
+<H2>	 
+	git remote
+	git add
+	git commit
+	git init
+	git checkout
+	 
+</H2>
+
+</BODY>
+</HTML>
